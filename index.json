@@ -1,0 +1,11 @@
+{
+  "org": "pysal",
+  "repo": "pointpats",
+  "versions": [
+    {
+      "commit": "95ca252901aafb29607b05a10815f9d233196827",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:34:47.694400+00:00"
+    }
+  ]
+}
